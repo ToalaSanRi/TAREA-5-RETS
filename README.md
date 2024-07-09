@@ -1,8 +1,10 @@
 # TAREA-5-RETS
 Mostrar la tabla de resultados de conductores en un TablaView (Individual)
 
+
   **CAPTURA DE EJECUCIÓN**
 ![image](https://github.com/ToalaSanRi/TAREA-5-RETS/assets/169106800/769851e5-cc7e-4b54-974d-3ccbc7b83c34)
+
 
   **CÓDIGO**
 
@@ -173,3 +175,9 @@ public class Main extends Application {
 
 
 ![image](https://github.com/ToalaSanRi/TAREA-5-RETS/assets/169106800/1e6b4af5-fd36-4514-8cd9-8227a3f6a69b)
+![image](https://github.com/ToalaSanRi/TAREA-5-RETS/assets/169106800/0ecbd05c-01d5-470d-a1a2-21818b228d4f)
+![image](https://github.com/ToalaSanRi/TAREA-5-RETS/assets/169106800/f52e8b63-c0bf-4993-b709-8a4b0791b604)
+![image](https://github.com/ToalaSanRi/TAREA-5-RETS/assets/169106800/c54b4412-0ff8-43a7-8da3-ab173fdcc406)
+
+
+
